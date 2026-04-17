@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.*.local
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.docx
+tmp_files/
+.DS_Store
+node_modules/
